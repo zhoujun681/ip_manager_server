@@ -1,0 +1,3 @@
+server:
+    debug: true
+    port: 8090
